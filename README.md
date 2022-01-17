@@ -5,41 +5,36 @@
 
 Creating a GUI based two player tic tac toe game.
 
-
-
-
 ## Board Dimensions
 
 ![Board Diagram (SS)](https://user-images.githubusercontent.com/90572543/149790113-9e0ebff3-f847-434b-98f7-847d586eeebf.PNG)
 
 ## Features
 
-- Player 1 is assigned with 'X' marker and player 2 is assigned with 'O' marker.
+- The players are assigned with 'X' and 'O' marker.
 - The players can start placing their markers by clicking on the GUI Board
-- There are four scenarios for the game to end which are as follows:
-- ### Vertical win
+- There are four scenarios for the game to end, which are as follows:
 
-![Board Layout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Vertical win
 
-- ### Horizontal win 
+![verticalwin](https://user-images.githubusercontent.com/90572543/149791306-0e2663a8-db83-4e3d-9dc0-24e15fcfc5ec.PNG)
 
-![Board Layout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Horizontal win 
 
-- ### Diagonal win
+![horizontalwin](https://user-images.githubusercontent.com/90572543/149791372-8b96f0e1-1ebe-4d38-975b-4774f85e5fb2.PNG)
 
-![Board Layout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Diagonal win
 
-- ### Draw
+![diagonalwin](https://user-images.githubusercontent.com/90572543/149791404-28cf94da-0ea2-49ea-bd80-6e8922b20a89.PNG)
 
-![Board Layout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Draw
+
+![draw](https://user-images.githubusercontent.com/90572543/149791445-1f413283-a3da-40d6-935b-7db2f3fe5b91.PNG)
 
 - `r` key on the keyboard can be pressed to reset the game once the game is finished.
-- `q` key on the keyboard or `x` on the GUI screen can be pressed to quit the game or close the GUI board
+- `q` key on the keyboard or `x` on the GUI screen can be pressed to quit the game or close the GUI board.
+- 
 ## Python Packages
 
-`import pygame` 
-
-`import sys` 
-
-`import numpy as np`
+`pygame` `sys` `numpy`
 
