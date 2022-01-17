@@ -10,7 +10,7 @@ Creating a GUI based two player tic tac toe game.
 
 ## Board Dimensions
 
-![Board Layout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Board Diagram (SS)](https://user-images.githubusercontent.com/90572543/149790113-9e0ebff3-f847-434b-98f7-847d586eeebf.PNG)
 
 ## Features
 
