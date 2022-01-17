@@ -33,8 +33,13 @@ Creating a GUI based two player tic tac toe game.
 
 - `r` key on the keyboard can be pressed to reset the game once the game is finished.
 - `q` key on the keyboard or `x` on the GUI screen can be pressed to quit the game or close the GUI board.
-- 
+ 
 ## Python Packages
 
 `pygame` `sys` `numpy`
+
+## Conclusion
+
+This is GUI based two player tic tac toe game implemented by using Python.
+
 
